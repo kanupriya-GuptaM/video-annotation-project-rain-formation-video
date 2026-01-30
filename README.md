@@ -14,3 +14,5 @@
 ## 📊 Tools
 * **Labeling:** [VGG Image Annotator (VIA)](https://www.robots.ox.ac.uk)
 * **Documentation:** [Google Sheets API](https://developers.google.com) / CSV
+## Workflow
+![Data Audit Evidence](evidence.png)
