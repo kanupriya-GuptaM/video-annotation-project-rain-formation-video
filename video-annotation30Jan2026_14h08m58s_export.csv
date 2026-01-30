@@ -1,0 +1,14 @@
+# Exported using VGG Image Annotator (http://www.robots.ox.ac.uk/~vgg/software/via)
+# Notes:
+# - spatial_coordinates of [2,10,20,50,80] denotes a rectangle (shape_id=2) of size 50x80 placed at (10,20)
+# - temporal coordinate of [1.349,2.741] denotes a temporal segment from time 1.346 sec. to 2.741 sec.
+# - temporal coordinate of [4.633] denotes a still video frame at 4.633 sec.
+# - metadata of {""1"":""3""} indicates attribute with id "1" set to an attribute option with id "3"
+# SHAPE_ID = {"POINT":1,"RECTANGLE":2,"CIRCLE":3,"ELLIPSE":4,"LINE":5,"POLYLINE":6,"POLYGON":7,"EXTREME_RECTANGLE":8,"EXTREME_CIRCLE":9}
+# FLAG_ID = {"RESERVED_FOR_FUTURE":1}
+# ATTRIBUTE = {"2":{"aname":"concept:Evoporation","anchor_id":"FILE1_Z2_XY0","type":4,"desc":"concept explaination","options":{"0":"00:05","1":"00:45"},"default_option_id":""},"3":{"aname":"Quality issue:","anchor_id":"FILE1_Z2_XY0","type":4,"desc":"voice glitch","options":{"0":"00:01:01","1":"00:01:02"},"default_option_id":""},"4":{"aname":"content type","anchor_id":"FILE1_Z0_XY0","type":1,"desc":"Educational, kids safe","options":{},"default_option_id":""},"5":{"aname":"Educational","anchor_id":"","type":1,"desc":"","options":{},"default_option_id":""},"6":{"aname":"kids safe","anchor_id":"","type":1,"desc":"","options":{},"default_option_id":""}}
+# CSV_HEADER = metadata_id,file_list,flags,temporal_coordinates,spatial_coordinates,metadata
+"1_EEmNQtnT","[""Rain formation concept for kids.mp4""]",0,"[]","[]","{""4"":""Educational, kids safe, Entertainment\n""}"
+"1_G5ffUQEU","[""Rain formation concept for kids.mp4""]",0,"[16.96142]","[2,84.444,1155.556,120,8.888]","{""1"":""default""}"
+"1_lBjjcJVT","[""Rain formation concept for kids.mp4""]",0,"[62.794,63.794]","[]","{""1"":""concept""}"
+"1_bJZCoQJB","[""Rain formation concept for kids.mp4""]",0,"[62.79392]","[2,102.222,328.889,515.556,675.555]","{""1"":""concept""}"
